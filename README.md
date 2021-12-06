@@ -6,7 +6,7 @@
 - 
 💻
 
-<h2>Frameworks</h2>
+<h3>Frameworks</h3>
 
 <a href="https://angular.io/docs"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="30" height="30" title="Angular" /></a>
 <a href="https://docs.flutter.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="30" height="30" title="Flutter" /></a>
