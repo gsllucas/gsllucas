@@ -5,6 +5,6 @@
 
 #Currently working at Coopersystem as a Front-end Developer
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="100" height="100" />
 
 https://linktr.ee/gsllucas
