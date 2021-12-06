@@ -1,4 +1,4 @@
-### Hi there 👋🚀
+### Hi there 👋�
 
 - I am a Front-end Developer, working with tecnologies for web and hybrid mobile.
 - Graduating at Cruzeiro do Sul University. 
@@ -25,4 +25,4 @@
 
 <h2>Contact</h2>
 
-<a href="https://linktr.ee/gsllucas"><img src="https://scontent.fbsb23-1.fna.fbcdn.net/v/t1.6435-9/105562020_105861301184307_3502970610997036263_n.png?_nc_cat=106&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeGYtHTGZD4w-t5YbfitozoiCFCFJLnLBWcIUIUkucsFZ-H5bKjey0mJjBmRy4ijnRrXktTSYsEzd8n0bHr5LP9s&_nc_ohc=GnHTPiLLocsAX9LJ6me&_nc_ht=scontent.fbsb23-1.fna&oh=bdda52ad79f45694db40bb0e6480247b&oe=61D3F1EC" width="30" height="30" title="Linktr"></a>
+<a href="https://linktr.ee/gsllucas"><img src="https://scontent.fbsb23-1.fna.fbcdn.net/v/t1.6435-9/105562020_105861301184307_3502970610997036263_n.png?_nc_cat=106&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeGYtHTGZD4w-t5YbfitozoiCFCFJLnLBWcIUIUkucsFZ-H5bKjey0mJjBmRy4ijnRrXktTSYsEzd8n0bHr5LP9s&_nc_ohc=GnHTPiLLocsAX9LJ6me&_nc_ht=scontent.fbsb23-1.fna&oh=bdda52ad79f45694db40bb0e6480247b&oe=61D3F1EC" width="30" height="30" title="Linktr"></a> <a href="mailto:pedro.oliveira.unb@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Gmail_Icon_%282013-2020%29.svg"></a> <a href="https://www.linkedin.com/in/gsllucas/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a>
