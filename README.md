@@ -17,11 +17,10 @@ Currently working at Coopersystem (a cooperative of information technology) as a
 
 <h2>Development Tools and Libraries</h2>
 
-<a href="https://socket.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width="30" height="30" title="Socketio" /></a> <a href="https://code.visualstudio.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" height="30" title="Vscode" /></a> <a href="https://developer.android.com/studio" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="30" height="30" title="Android Studio" /></a>
-<a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" height="30" title="Git" /></a>
+<a href="https://socket.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width="30" height="30" title="Socketio" /></a> <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" height="30" title="Git" /></a>
 <a href="https://about.gitlab.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="30" height="30" title="GitLab" /></a>
 <a href="https://github.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" height="30" title="GitHub" /></a>
-<a href="https://npmjs.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="30" height="30" title="Npm" /></a>
+<a href="https://npmjs.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="30" height="30" title="Npm" /></a> <a href="https://code.visualstudio.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-plain.svg" width="30" height="30" title="Vscode" /></a> <a href="https://developer.android.com/studio" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="30" height="30" title="Android Studio" /></a>
 
 <h2>Contact</h2>
 
