@@ -4,8 +4,8 @@
 - Graduating at Cruzeiro do Sul University. 
 - Currently working at Coopersystem (a cooperative of information technology) as a Front-end Developer and as a cooperated. 
 
-
-My Development Stack 💻
+![image](https://user-images.githubusercontent.com/61909626/144772480-71a63745-a10e-42b6-a8f4-3de30a83f955.png)
+💻
 
 <h1>Frameworks</h1>
 
