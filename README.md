@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-- I am a Front-end Developer, working with tecnologies for web and hybrid mobile. Graduating at Cruzeiro do Sul University and I am currently working at Coopersystem (a cooperative of information technology) as a Front-end Developer and as a cooperated.
+# I am a Front-end Developer, working with tecnologies for web and hybrid mobile. 
+# Graduating at Cruzeiro do Sul University.
+# Currently working at Coopersystem (a cooperative of information technology) as a Front-end Developer and as a cooperated.
 
 💻
 
