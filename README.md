@@ -6,7 +6,7 @@
 
 <h2>Frameworks</h2>
 
-<a href="https://angular.io/docs" target="__blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="30" height="30" title="Angular" /></a>
+<a href="https://angular.io/docs" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="30" height="30" title="Angular" /></a>
 <a href="https://docs.flutter.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="30" height="30" title="Flutter" /></a>
 
 <h2>Languages</h2>
@@ -23,4 +23,4 @@
 
 <h2>Contact</h2>
 
-<a href="https://linktr.ee/gsllucas" target="_blank"><img src="https://scontent.fbsb23-1.fna.fbcdn.net/v/t1.6435-9/105562020_105861301184307_3502970610997036263_n.png?_nc_cat=106&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeGYtHTGZD4w-t5YbfitozoiCFCFJLnLBWcIUIUkucsFZ-H5bKjey0mJjBmRy4ijnRrXktTSYsEzd8n0bHr5LP9s&_nc_ohc=GnHTPiLLocsAX9LJ6me&_nc_ht=scontent.fbsb23-1.fna&oh=bdda52ad79f45694db40bb0e6480247b&oe=61D3F1EC" width="30" height="30" title="Linktr"></a> <a href="mailto:llucasgs@gmail.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Gmail_Icon_%282013-2020%29.svg" width="30" height="30"></a> <a href="https://www.linkedin.com/in/gsllucas/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" height="30"></a>
+<a href="https://linktr.ee/gsllucas" target="_blank"><img src="https://scontent.fbsb23-1.fna.fbcdn.net/v/t1.6435-9/105562020_105861301184307_3502970610997036263_n.png?_nc_cat=106&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeGYtHTGZD4w-t5YbfitozoiCFCFJLnLBWcIUIUkucsFZ-H5bKjey0mJjBmRy4ijnRrXktTSYsEzd8n0bHr5LP9s&_nc_ohc=GnHTPiLLocsAX9LJ6me&_nc_ht=scontent.fbsb23-1.fna&oh=bdda52ad79f45694db40bb0e6480247b&oe=61D3F1EC" width="30" height="30" title="Linktr"></a> <a href="mailto:llucasgs@gmail.com" target="_blank"><img src="https://1.bp.blogspot.com/-4ERFGyzXp8s/XEBx5I1eiHI/AAAAAAAAG7Y/bC8Md4NO798NZymOAE_QKhi5gWE65g5pwCK4BGAYYCw/s1600/Icon%2BGmail.png" width="30" height="30"></a> <a href="https://www.linkedin.com/in/gsllucas/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" height="30"></a>
