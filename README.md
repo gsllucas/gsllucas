@@ -18,7 +18,7 @@ Front-end Developer, currently working at Coopersystem integrating the innovatio
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"  target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" height="30" title="CSS3" /></a>
 <a href="https://sass-lang.com/documentation" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="30" height="30" title="SASS" /></a>
 
-<h2>Tools and Libraries</h2>
+<h2>Platforms, Tools and Libraries</h2>
 
 <a href="https://firebase.google.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="30" height="30" title="Firebase" /></a>
 <a href="https://socket.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width="30" height="30" title="Socketio" /></a>
