@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=gsllucas&color=green)
+
 Front-end Developer, currently working at Coopersystem integrating the innovation team, developing for web and hybrid mobile. Graduated in Analysis and System Development at Cruzeiro do Sul University. Agile Scrum methodology as a project management.
 
 💻
@@ -8,8 +10,8 @@ Front-end Developer, currently working at Coopersystem integrating the innovatio
 
 <a href="https://angular.io/docs" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="30" height="30" title="Angular" /></a>
 <a href="https://reactjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" height="30" title="React" /></a>
-<a href="https://docs.flutter.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="30" height="30" title="Flutter" /></a>
 <a href="https://nextjs.org/docs" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" width="30" height="30" title="NextJS" /></a>
+<a href="https://docs.flutter.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="30" height="30" title="Flutter" /></a>
 
 <h2>Languages</h2>
 
