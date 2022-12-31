@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=gsllucas&color=green)
+<!-- ![](https://komarev.com/ghpvc/?username=gsllucas&color=green) -->
 
 Front-end Developer, currently working at Coopersystem integrating the innovation team, developing for web and hybrid mobile. Graduated in Analysis and System Development at Cruzeiro do Sul University. Agile Scrum methodology as a project management.
 
