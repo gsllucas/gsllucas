@@ -2,7 +2,7 @@
 
 <!-- ![](https://komarev.com/ghpvc/?username=gsllucas&color=green) -->
 
-Front-end Developer, currently working at Coopersystem integrating the innovation team, developing for web and hybrid mobile. Graduated in Analysis and System Development at Cruzeiro do Sul University. Agile Scrum methodology as a project management.
+Developer, working on innovation projects and product, following agile scrum methodology as a project management. Graduated in Analysis and System Development, I always seek to aggregate great value to the projects, and career advancement and market.
 
 💻
 
@@ -12,6 +12,8 @@ Front-end Developer, currently working at Coopersystem integrating the innovatio
 <a href="https://reactjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" height="30" title="React" /></a>
 <a href="https://nextjs.org/docs" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" width="30" height="30" title="NextJS" /></a>
 <a href="https://docs.flutter.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="30" height="30" title="Flutter" /></a>
+<a href="https://nodejs.org/en/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" width="30" height="30" title="Node" /></a>
+<a href="https://expressjs.com/pt-br/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="30" height="30" title="Express" /></a>
 
 <h2>Languages</h2>
 
@@ -23,6 +25,7 @@ Front-end Developer, currently working at Coopersystem integrating the innovatio
 
 <h2>Platforms, Tools and Libraries</h2>
 
+<a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" width="30" height="30" title="Docker" /></a>
 <a href="https://firebase.google.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="30" height="30" title="Firebase" /></a>
 <a href="https://socket.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width="30" height="30" title="Socketio" /></a>
 <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" height="30" title="Git" /></a>
