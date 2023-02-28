@@ -2,7 +2,7 @@
 
 <!-- ![](https://komarev.com/ghpvc/?username=gsllucas&color=green) -->
 
-Developer, working on innovation projects and product, following agile scrum methodology as a project management. Graduated in Analysis and System Development, I always seek to aggregate great value to the projects, and career advancement and market.
+Two years of professional experience with software development, applying architectural good practices, patterns, tests and agile project management. I always look for innovation ideas and projects to aggregate greate values to the stakeholders and company. I work as a front-end team leader of a sub-project on the innovation team that has already helped a lot of institutions around country to held their digital assemblies and votes through elections, proposals and electoral plates with online quoruoms.
 
 💻
 
