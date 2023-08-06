@@ -2,7 +2,7 @@
 
 <!-- ![](https://komarev.com/ghpvc/?username=gsllucas&color=green) -->
 
-Two years of professional experience with software development, applying architectural good practices, patterns, tests and agile project management. I always look for innovation ideas and projects to aggregate greate values to the stakeholders and company. I work as a front-end team leader of a sub-project on the innovation team that has already helped a lot of institutions around country to held their digital assemblies and votes through elections, proposals and electoral plates with online quoruoms.
+Developer at Coopersystem
 
 💻
 
