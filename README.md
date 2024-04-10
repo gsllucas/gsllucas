@@ -24,6 +24,8 @@
 
 <code>![Tools and Libraries](https://skillicons.dev/icons?i=docker,postgresql,mongo,firebase,rabbitmq,redis,gitlab,github,linux&theme=dark)</code>
 
+<br/>
+
 ### Activity
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=gsllucas&hide_border=true&theme=tokyonight)
