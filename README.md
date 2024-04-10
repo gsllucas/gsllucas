@@ -1,8 +1,14 @@
 # About
 
+<div>
+
+<img align="right" width="40%" height="300px" src="./jellyfish.gif" alt="JellyF" />
+
 <p>
   <strong>Systems Analyst</strong> with experience in full stack software development, software engineering, team management and agile project, using architectural patterns, design patterns and tests.
 </p>
+
+</div>
 
 ### Contact
 
