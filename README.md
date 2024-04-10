@@ -4,15 +4,13 @@
   <strong>Systems Analyst</strong> with experience in full stack software development, software engineering, team management and agile project, using architectural patterns, design patterns and tests.
 </p>
 
-<img src="./jellyfish.gif" alt="JellyF" />
-
-### Contact
+## Contact
 
 <code>[![Contact](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/gsllucas/)</code>
 
 <br/>
 
-### Technology Stack
+## Technology Stack
 
 **Frameworks**
 
@@ -26,7 +24,7 @@
 
 <code>![Tools and Libraries](https://skillicons.dev/icons?i=docker,postgresql,mongo,firebase,rabbitmq,redis,gitlab,github,linux&theme=dark)</code>
 
-### Activity
+## Activity
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=gsllucas&hide_border=true&theme=tokyonight)
 
