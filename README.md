@@ -1,18 +1,15 @@
 # About
 
-<div>
-
-<img align="right" width="40%" height="300px" src="./jellyfish.gif" alt="JellyF" />
-
 <p>
-  <strong>Systems Analyst</strong> with experience in full stack software development, software engineering, team management and agile project, using architectural patterns, design patterns and tests.
+  <strong>Systems Analyst</strong> with experience in full stack <br/> software development, software engineering, <br/> team management and agile project, using <br/> architectural patterns, design patterns and tests.
 </p>
 
-</div>
+<br/>
 
-### Contact
+### Activity
 
-<code>[![Contact](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/gsllucas/)</code>
+| ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=gsllucas&hide_border=true&theme=tokyonight) | ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gsllucas&layout=donut&hide_border=true&langs_count=5&&theme=tokyonight) |
+| ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 <br/>
 
@@ -32,8 +29,6 @@
 
 <br/>
 
-### Activity
+### Contact
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=gsllucas&hide_border=true&theme=tokyonight)
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gsllucas&layout=donut&hide_border=true&langs_count=5&&theme=tokyonight)
+<code>[![Contact](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/gsllucas/)</code>
