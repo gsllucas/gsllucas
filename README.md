@@ -1,7 +1,7 @@
-### Activity
-
 | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=gsllucas&hide_border=true&theme=tokyonight) | ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gsllucas&layout=donut&hide_border=true&langs_count=5&&theme=tokyonight) |
 | ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+<div align="center">
 
 **Frameworks**
 
@@ -18,3 +18,5 @@
 **Contact**
 
 <code>[![Contact](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/gsllucas/)</code>
+  
+</div>
