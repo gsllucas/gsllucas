@@ -7,11 +7,11 @@
 
 **Frameworks**
 
-<code>![Frameworks](https://skillicons.dev/icons?i=angular,react,next,flutter,nodejs,expressjs,graphql&theme=dark)</code>
+<code>![Frameworks](https://skillicons.dev/icons?i=angular,react,next,flutter,nodejs,expressjs&theme=dark)</code>
 
 **Languages**
 
-<code>![Languages](https://skillicons.dev/icons?i=typescript,javascript,dart,html,css,sass&theme=dark)</code>
+<code>![Languages](https://skillicons.dev/icons?i=typescript,javascript,dart,html,css,sass,graphql&theme=dark)</code>
 
 **Tools and Libraries**
 
